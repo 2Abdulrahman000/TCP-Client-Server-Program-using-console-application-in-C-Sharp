@@ -1,0 +1,9 @@
+C:\Users\the first\Desktop\Client1\Client1\bin\Debug\Client1.exe.config
+C:\Users\the first\Desktop\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\the first\Desktop\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\the first\Desktop\Client1\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+C:\Users\the first\Desktop\Client1\Client1\obj\Debug\Client1.exe
+C:\Users\the first\Desktop\Client1\Client1\obj\Debug\Client1.pdb
+E:\CS4\Term 1\Network Programming\Project\Client-Server(Console)\Client1\Client1\bin\Debug\Client1.exe.config
+E:\CS4\Term 1\Network Programming\Project\Client-Server(Console)\Client1\Client1\obj\Debug\Client1.exe
+E:\CS4\Term 1\Network Programming\Project\Client-Server(Console)\Client1\Client1\obj\Debug\Client1.pdb
